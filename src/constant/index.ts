@@ -14,9 +14,9 @@ export const TEST_URL = 'https://www.gstatic.com/generate_204'
 export const IPV6_TEST_URL = 'https://ipv6.google.com/generate_204'
 export const NOT_CONNECTED = 0
 export enum LANG {
-  EN_US = 'en-US',
+  ZH_TW = 'zh-TW',
   ZH_CN = 'zh-CN',
-  RU_RU = 'ru-RU',
+  EN_US = 'en-US',
 }
 
 export enum FONTS {

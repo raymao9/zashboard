@@ -1,6 +1,6 @@
 import type { LANG_MESSAGE } from './en'
 
-const zh: LANG_MESSAGE = {
+const zh_cn: LANG_MESSAGE = {
   setup: '配置',
   overview: '概览',
   proxies: '代理',
@@ -257,4 +257,4 @@ const zh: LANG_MESSAGE = {
   connectionCount: '连接数',
 }
 
-export default zh
+export default zh_cn
